@@ -1,12 +1,12 @@
 # Site settings
-title: Game Developer
-email: your-email@domain.com
+title: Robert Norris
+email: robert.derek.norris@gmail.com
 description: > # keep this and put description below
-  Programmer and Designer
-url: "https://yourdomain.com" # the base hostname & protocol for your site
-linkedin_url: "https://www.linkedin.com/in/gamingportfolio"
-github_username: gamingportfolio
-twitter_username: gamingportfolio
+  Product Lead Mobile & Staff Software Developer
+url: "https://wuntunsun/portfolio.github.io" # the base hostname & protocol for your site
+linkedin_url: "https://www.linkedin.com/in/robertdereknorris/"
+github_username: wuntunsun
+#twitter_username: gamingportfolio
 footer_text: "This site uses <a href='https://github.com/gamingportfolio/urban-theme-portfolio'>urban-theme (portfolio)</a>."
 
 # Build settings
