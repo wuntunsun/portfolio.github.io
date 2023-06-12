@@ -4,8 +4,6 @@ title: "About Me"
 permalink: /about/
 ---
 
-![Picture 1](/assets/header_robert_tag.png)
-
 |   |   |   | 
 |---|---|---|
 |![Picture 1](/assets/rob_india.jpg)|![Picture 2](/assets/rob_bars.jpg)|![Picture 3](/assets/rob_peak.jpg)|
