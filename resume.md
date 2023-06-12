@@ -4,6 +4,4 @@ title: "Resume"
 permalink: /resume/
 ---
 
-Here's my resume:
-
-<object data="/assets/resume.pdf" width="100%" height="600"></object>
+<object data="/assets/robert_norris_cv_en_2023_04_18.pdf" width="100%" height="600"></object>

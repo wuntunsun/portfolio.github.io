@@ -8,7 +8,7 @@ preview: /assets/porsche_christophorus_cover_356.jpg
 
 A native iPad app that was later replaced by a Web magazine.
 
-![Picture 1](/assets/porsche_christophorus_article)
+![Picture 1](/assets/porsche_christophorus_article.jpg)
 
 * Development of mobile iOS applications for C3 Creative Code and Content (previously KircherBurkhardt GmbH).
 * Maintenance of mobile SDKs and infrastructure.
