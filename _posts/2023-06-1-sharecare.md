@@ -15,7 +15,8 @@ preview: /assets/sharecare_timeline_all.png
 
 * Feature lead for health tracking, a major vertical in Sharecare's ecosystem, allowing me to combine my experience of product with mobile development.
 * Formalisation of network layer to facilitate consistent service architecture and automatic refresh of access tokens.
-* Introduction of coordinators to facilitate better encapsulation of navigation 
+* Colaboration with the Web team to introduce [Vega-Lite](https://vega.github.io/vega-lite/) as a component.
+* Introduction of coordinators to facilitate better encapsulation of navigation.
 * Introduction of structured concurrency as an alternative to completion handlers to facilitate code readability and robustness.
 * Development of mobile iOS applications for Feingold and their partners.
 * Maintenance of mobile SDKs and infrastructure.
