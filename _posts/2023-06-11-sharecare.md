@@ -20,3 +20,6 @@ preview: /assets/sharecare_timeline_all.png
 * Introduction of structured concurrency as an alternative to completion handlers to facilitate code readability and robustness.
 * Development of mobile iOS applications for Feingold and their partners.
 * Maintenance of mobile SDKs and infrastructure.
+
+<a href="/projects">See 'projects' for more.</a>
+
